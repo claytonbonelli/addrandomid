@@ -1,4 +1,7 @@
 # AddRandomId
+
+A Python library to dinamicaly include IDs into html tags.
+
 Sometimes when we develop our HTML pages, we forget to include the unique identifiers (IDs) in our tags. 
 Later we realize that when we need these identifiers, for example when we use automated testing tools, 
 we must manually include those same IDs in each of the tags that will be tested, which is a tedious task. 
